@@ -1,0 +1,9 @@
+这是个获取服务器CPU和内存使用率的小工具。
+
+在服务器上后台运行cpuUtil，会生成log.txt日志文件，然后根据config.yml中
+saveFilename生成对应的csv文件。
+
+收集到所有服务器上的cpu和memory信息csv文件后，运行chartUtil，
+会根据config.yml中的lines的文件名和颜色来绘制折线图。
+
+注意：会根据startTime和endTime来过滤数据

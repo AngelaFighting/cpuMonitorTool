@@ -1,0 +1,12 @@
+sleepTime: 10
+saveFilename: cpuInfo.csv
+lines:
+  - 80.1.196.104: black
+  - 80.1.196.106: blue
+  - 80.1.196.108: cyan
+  - 80.1.196.111: green
+  - 80.1.196.109: red
+  - 80.1.196.152: yellow
+
+startTime: 2019-07-31 16:13:00
+endTime: 2019-07-31 16:30:00
